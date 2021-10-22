@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6995941ded9663ce1a3310ef0909145c",
+    "revision": "9e4afd0d2dcfe12f0ad6967168e55a86",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "26a312e03d01993e685b",
+    "revision": "bd131e265eee5e041271",
     "url": "/portfolio/static/css/3.ed673b97.chunk.css"
   },
   {
@@ -12,32 +12,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/4.0110b6a7.chunk.css"
   },
   {
-    "revision": "c10a4b619eb801de8483",
+    "revision": "348b279b9dacea40e4f8",
     "url": "/portfolio/static/css/main.0e5c270e.chunk.css"
   },
   {
-    "revision": "2e950a08afd58d55298a",
-    "url": "/portfolio/static/js/2.65e43be7.chunk.js"
+    "revision": "9335becb11b0cedb3225",
+    "url": "/portfolio/static/js/2.52ec4bfd.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/portfolio/static/js/2.65e43be7.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.52ec4bfd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "26a312e03d01993e685b",
-    "url": "/portfolio/static/js/3.9a5e9046.chunk.js"
+    "revision": "bd131e265eee5e041271",
+    "url": "/portfolio/static/js/3.77f4cf26.chunk.js"
   },
   {
     "revision": "86fb9f9ceee7066edb9e",
     "url": "/portfolio/static/js/4.206b35cf.chunk.js"
   },
   {
-    "revision": "c10a4b619eb801de8483",
-    "url": "/portfolio/static/js/main.c6297e9c.chunk.js"
+    "revision": "348b279b9dacea40e4f8",
+    "url": "/portfolio/static/js/main.6196c750.chunk.js"
   },
   {
-    "revision": "3b0c2bf75f93c853b41f",
-    "url": "/portfolio/static/js/runtime-main.421d5a39.js"
+    "revision": "ebcb5466f567e1ef28da",
+    "url": "/portfolio/static/js/runtime-main.f26877b3.js"
   },
   {
     "revision": "a3752c4bf72688b3db38d0911cf75f61",
@@ -98,10 +98,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
     "url": "/portfolio/static/media/talksCardBack.13780cdd.svg"
-  },
-  {
-    "revision": "f3ddfb229f7afc60703e05c38d4f8cfe",
-    "url": "/portfolio/static/media/tifrLogo.f3ddfb22.png"
   },
   {
     "revision": "c567986e1b384faa11f6e0d6f5f093e4",
